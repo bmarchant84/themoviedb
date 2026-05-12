@@ -76,7 +76,8 @@ pip install pytest requests python-dotenv
 
 Get a free API key from [TMDB](https://www.themoviedb.org/settings/api), then create a `.env` file in the project root:
 
-```TMDB_API_KEY=your_api_key_here
+```
+TMDB_API_KEY=your_api_key_here
 TMDB_BASE_URL=https://api.themoviedb.org/3
 ```
 
